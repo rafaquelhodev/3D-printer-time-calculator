@@ -8,5 +8,7 @@ The calculation is based on the trapezoidal profile speed for the nozzle.
 For that, it is required to know the following:
 
 Vj = jerk speed of the nozzle - mm/s
+
 ac = default nozzle acceleration - mm/s^2
+
 amax = maximum nozzle acceleration - mm/s^2
